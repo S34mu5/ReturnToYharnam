@@ -38,10 +38,13 @@ Los estudiantes deberán completar las siguientes tareas:
 
 - `Cazador.java`: Clase abstracta base para los personajes principales.
 - `Enemigo.java`: Clase abstracta base para los adversarios.
+- `CazadorDestreza.java`: Ejemplo de implementación de un cazador.
 - `BestiaLicantropaEjemplo.java`: Ejemplo de implementación de un enemigo.
-- `EjercicioBloodborne.java`: Contiene la clase `CazadorDestreza` como ejemplo.
+- `EjercicioBloodborne.java`: Clase principal donde implementar el método main.
 
 ## Enemigos oficiales de Bloodborne sugeridos
+
+Para la implementación de enemigos, se sugieren los siguientes personajes oficiales del juego:
 
 - **Bestia de la Plaga (Scourge Beast)**: Los hombres lobo que atacan en las calles de Yharnam.
 - **Bestia Clérigo (Cleric Beast)**: Una enorme bestia con un brazo más desarrollado que el otro y gran poder.
@@ -50,4 +53,8 @@ Los estudiantes deberán completar las siguientes tareas:
 - **Caballero de la Iglesia (Church Servant)**: Sirvientes de la Iglesia de la Sanación armados con armas largas.
 - **Succionador de Cerebros (Brainsucker)**: Criaturas arcanas con tentáculos que atacan con magia.
 
+_Nota: El ejemplo proporcionado `BestiaLicantropaEjemplo.java` puede servir como referencia para implementar estos enemigos._
 
+## Evaluación
+
+El ejercicio se evaluará considerando la correcta implementación de los conceptos de herencia y clases abstractas, así como la originalidad y funcionalidad de las soluciones propuestas.
